@@ -1,5 +1,7 @@
 Mechanical Response of Foams: Analysis notebooks
 ------------------------------------------------
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.60684.svg)](http://dx.doi.org/10.5281/zenodo.60684)
+
 These are the IPython/Jupyter notebooks used for all figures in
 > Merlijn S. van Deen.
 > Mechanical Response of Foams: _Elasticity, Plasticity, and Rearrangements_
